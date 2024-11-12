@@ -1,4 +1,4 @@
-Create UAVSAR data stacks for 2024 Line Fire (San Bernandino Mountains) and Bridge Fire (San Gabriel Mountains).
+Create UAVSAR data stacks for 2024 Line Fire (San Bernardino Mountains) and Bridge Fire (San Gabriel Mountains).
 
 Data stacks include:     
 Band 1: HV pre-fire
