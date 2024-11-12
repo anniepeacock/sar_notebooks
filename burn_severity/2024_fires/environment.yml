@@ -1,0 +1,16 @@
+name: fire
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10  # or your preferred Python version
+  - rasterio
+  - numpy
+  - matplotlib
+  - gdal
+  - scikit-image  # includes skimage
+  - geopandas
+  - requests
+  - shapely
+  - jupyter
+  - ipykernel
+  - opencv
