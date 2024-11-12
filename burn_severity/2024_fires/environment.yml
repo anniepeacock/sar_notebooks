@@ -2,7 +2,7 @@ name: fire
 channels:
   - conda-forge
 dependencies:
-  - python=3.10  # or your preferred Python version
+  - python=3.10  
   - rasterio
   - numpy
   - matplotlib
